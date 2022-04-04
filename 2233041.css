@@ -22,7 +22,7 @@ body {
 .pw {
     justify-content: center;
     display: flex;
-    margin-top: -15px;
+    margin-top: 15px;
 }
 
 #p {
@@ -34,7 +34,7 @@ body {
 .bot {
     justify-content: center;
     display: flex;
-    margin-top: -15px;
+    margin-top: 15px;
 }
 
 #botton {
